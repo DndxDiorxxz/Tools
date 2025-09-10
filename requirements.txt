@@ -1,0 +1,6 @@
+aiohttp
+requests
+dnspython
+colorama
+pyperclip
+fake-useragent
