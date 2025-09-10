@@ -1,0 +1,43 @@
+# Tutorial for multi_tool.pyc
+
+1. Install Python
+   - Download and install Python 3.10 or 3.11 from https://www.python.org/downloads/
+   - During installation, check "Add Python to PATH"
+
+2. Install Requirements
+   - Open a terminal (Command Prompt, PowerShell, or Linux/Mac terminal)
+   - Navigate to the folder where your files are stored:
+       cd path/to/your/project
+   - Install the required modules:
+       pip install -r requirements.txt
+
+   The requirements.txt includes:
+   - aiohttp
+   - requests
+   - dnspython
+   - colorama
+   - pyperclip
+   - fake-useragent
+   - pyarmor
+
+3. Run the Program
+   - Run the compiled file directly with Python:
+       python multi_tool.pyc
+
+   Note:
+   - If you see "Bad magic number" error, it means the .pyc file was compiled with a different Python version.
+   - Try using the exact Python version used to compile it (likely 3.10 or 3.11).
+
+4. Optional: Decompile or Protect
+   - To decompile and view source code:
+       pip install uncompyle6
+       uncompyle6 multi_tool.pyc > multi_tool.py
+   - To protect or obfuscate, use pyarmor:
+       pyarmor obfuscate multi_tool.py
+
+5. Sharing the Tool
+   - To share, include:
+       - multi_tool.pyc
+       - requirements.txt
+       - This tutorial file
+   - The recipient just needs to install Python, install requirements, and run the .pyc file.
