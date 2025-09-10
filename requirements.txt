@@ -4,3 +4,4 @@ dnspython
 colorama
 pyperclip
 fake-useragent
+pyarmor
