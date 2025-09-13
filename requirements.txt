@@ -1,7 +1,6 @@
-aiohttp
-requests
 dnspython
+aiohttp
 colorama
 pyperclip
+requests
 fake-useragent
-pyarmor
