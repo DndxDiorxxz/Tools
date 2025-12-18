@@ -1,0 +1,61 @@
+﻿  Main.cpp
+  Menu.cpp
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(20,22): warning C4566: character represented by universal-character-name '\u26A1' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(77,36): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(77,44): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(78,34): warning C4566: character represented by universal-character-name '\u2551' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(78,42): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(79,33): warning C4566: character represented by universal-character-name '\u2554' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(79,41): warning C4566: character represented by universal-character-name '\u250C' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(80,34): warning C4566: character represented by universal-character-name '\u2557' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(80,42): warning C4566: character represented by universal-character-name '\u2510' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(81,36): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(81,44): warning C4566: character represented by universal-character-name '\u2514' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(82,37): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(82,45): warning C4566: character represented by universal-character-name '\u2518' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(123,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(136,38): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(137,27): warning C4566: character represented by universal-character-name '\u2591' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(149,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(180,25): warning C4566: character represented by universal-character-name '\u2554' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(180,25): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(180,25): warning C4566: character represented by universal-character-name '\u2557' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(181,25): warning C4566: character represented by universal-character-name '\u2551' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(182,25): warning C4566: character represented by universal-character-name '\u2551' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(183,25): warning C4566: character represented by universal-character-name '\u2551' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(183,25): warning C4566: character represented by universal-character-name '\u2764' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(183,25): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(184,25): warning C4566: character represented by universal-character-name '\u255A' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(184,25): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(184,25): warning C4566: character represented by universal-character-name '\u255D' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(191,20): warning C4566: character represented by universal-character-name '\u26A1' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(218,33): error C2589: '(': illegal token on right side of '::'
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(218,33): error C2059: syntax error: ')'
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(224,21): warning C4566: character represented by universal-character-name '\u2699' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(224,21): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(264,22): warning C4566: character represented by universal-character-name '\U0001F4CA' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(299,21): warning C4566: character represented by universal-character-name '\U0001F3AE' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(315,25): warning C4566: character represented by universal-character-name '\u2191' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(315,25): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(318,20): warning C4566: character represented by universal-character-name '\U0001F504' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(325,18): warning C4566: character represented by universal-character-name '\u2764' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(325,18): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(456,25): warning C4566: character represented by universal-character-name '\u2699' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(456,25): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(482,33): warning C4566: character represented by universal-character-name '\u2699' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(482,33): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(495,25): warning C4566: character represented by universal-character-name '\U0001F3AE' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(520,25): warning C4566: character represented by universal-character-name '\U0001F3AF' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(546,33): warning C4566: character represented by universal-character-name '\U0001F3AF' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(561,25): warning C4566: character represented by universal-character-name '\U0001F527' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(599,33): warning C4566: character represented by universal-character-name '\U0001F527' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(618,25): warning C4566: character represented by universal-character-name '\U0001F4CA' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(647,33): warning C4566: character represented by universal-character-name '\U0001F4CA' cannot be represented in the current code page (1252)
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\Menu.cpp(666,25): warning C4566: character represented by universal-character-name '\U0001F3A8' cannot be represented in the current code page (1252)
+  TriggerBot.cpp
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\TriggerBot.cpp(483,26): warning C4244: 'return': conversion from '_Rep' to 'double', possible loss of data
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\TriggerBot.cpp(483,26): warning C4244:         with
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\TriggerBot.cpp(483,26): warning C4244:         [
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\TriggerBot.cpp(483,26): warning C4244:             _Rep=__int64
+C:\Users\WINDOWS 10\source\repos\Triggerbot\Triggerbot\TriggerBot.cpp(483,26): warning C4244:         ]
+  Generating Code...
